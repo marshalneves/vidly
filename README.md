@@ -1,4 +1,4 @@
-# Marshal Store
+# Vidly
 
 Node RestFull APi
 
