@@ -1,6 +1,6 @@
 # Vidly
 
-Node RestFull APi
+Node RESTful API
 
 It implements the following concepts:
 
