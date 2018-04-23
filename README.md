@@ -19,8 +19,8 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 npm install
 ```
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
 
+```
 npm test
+```
