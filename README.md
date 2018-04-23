@@ -4,8 +4,8 @@ Node RestFull APi
 
 It implements the following concepts:
 
-  * CRUD Operations Using MONGODB
-  * Data validation with Mongoose
-  * Authentication and autorization
-  * Handling and Logging Erros
+  * CRUD Operations Using MongoDB
+  * Data Validation with Mongoose
+  * Authentication and Autorization
+  * Handling and Logging Errors
   * Tests (Unit and Integration)
